@@ -27,3 +27,15 @@ Prophet is a procedure for forecasting time series data based on an additive mod
 - With time-series based additive model, Facebook prophet the predictions of confirmed cases, death and recovered cases are done till 30th of March
 
 **Worldwide Confirmed Cases**
+
+![Dipinwed](https://github.com/JagadishSivakumar/Corona_Outbreak_Prediction/blob/master/Predictions/confirmed%20-%20worldwide.png)
+
+The dip in wednesday - On analysing dataset, there was a huge dip in China on Wednesday
+
+**Death Forecast**
+
+![deathforecast](https://github.com/JagadishSivakumar/Corona_Outbreak_Prediction/blob/master/Predictions/death.png)
+
+**Recovered cases**
+
+![recoveredcases](https://github.com/JagadishSivakumar/Corona_Outbreak_Prediction/blob/master/Predictions/recovered%20-%20prediction.png)
