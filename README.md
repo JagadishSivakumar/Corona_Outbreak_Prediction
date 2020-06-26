@@ -39,3 +39,15 @@ The dip in wednesday - On analysing dataset, there was a huge dip in China on We
 **Recovered cases**
 
 ![recoveredcases](https://github.com/JagadishSivakumar/Corona_Outbreak_Prediction/blob/master/Predictions/recovered%20-%20prediction.png)
+
+### Conclusion
+- Most number of recovered cases are on Sunday, Monday
+- Most number of confirmed cases are also on Sunday and Monday
+
+**Will India become Next Italy, South Korea , Wuhan ?**
+Yes, if we look at the world's data and its forecast we can say India might face one of its worst days. Thus, Strict Lockdown must be implemented to overcome spread of Disease and stabilize the curve.
+
+**India in 2nd stage as of Mar - 29 and is 145th Place**
+Italy - 2nd
+
+In India, The fatality is predicted to be only 2% of affected crowd but the forecasted crowd is about `60%` of world population.
