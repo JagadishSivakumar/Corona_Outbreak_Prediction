@@ -1,7 +1,7 @@
 # Corona Outbreak Prediction in India
 
 ### Overview
-The idea of the project is to develop an effective time series additive model and answer "Will India become next Italy, Wuhan, S.Korea ? ". The dataset used in the project is from Government Websites, Time Series - John Hopkins updated Git. A more updated and refind dataset is available in Kaggle - [COVID -19 in India](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
+The idea of the project is to develop an effective time series additive model and answer "Will India become next Italy, Wuhan, S.Korea ? ". The dataset used in the project is from Government Websites, Time Series - John Hopkins updated Git. The latest version of dataset is available in Kaggle - [COVID -19 in India](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
 
 The dataset used in my project is also provided in the respository. I have used Google Colabs for the time-series prediction of Covid-19 trend in India.
 
